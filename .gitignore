@@ -1,0 +1,17 @@
+node_modules/
+dist/
+release/
+data/
+**/data/
+tests/.tmp-*
+*.tsbuildinfo
+*.log
+.env
+.env.*
+*.pem
+.DS_Store
+.openai/
+.sites-runtime/
+.codex/
+.agents/
+.wrangler/
